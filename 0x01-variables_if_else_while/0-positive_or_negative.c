@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * This program will assign a random number 
+ * This program will assign a random number
  * to the variable n each time it is executed.
  *
  * main - Prints a random number and states whether
- *        it is positive, negative, or zero. 
+ *        it is positive, negative, or zero
  *        Followed by new line
  *
  * Return: Always 0.
