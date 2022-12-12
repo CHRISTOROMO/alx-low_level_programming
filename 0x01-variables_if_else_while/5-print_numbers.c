@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- *main assign a number to the variable n each time it is executed
- *and print all single digit numbers of base 10
-
+ *main Print all single digit numbers of base 10 starting from 0
+ *
  *Return: Always 0
  */
 int main(void)
