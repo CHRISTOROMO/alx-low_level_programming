@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int x;
+	long int y;
+	long long z;
+
+	char a;
+	float b
+
+	print("Size of a char: \n", (unsigned long)sizeof(a));
+	print("Size of an int: \n", (unsigned long)sizeof(x));
+	print("Size of a long int: \n", (unsigned long)sizeof(y));
+	print("Size of a long long: \n", (unsigned long)sizeof(z));
+	print("Size of a float: \n", (unsigned long)sizeof(b));
+
+	return (0);
+}	
